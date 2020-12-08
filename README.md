@@ -3,7 +3,7 @@
 ------------
 
 **Spring Boot application for tracking the status of health care program enrollees.**
-- Creates two MySQL database tables
+- Creates two MySQL database tables named "tbl_enrollee" and "tbl_dependent"
 - Enter MySQL database name, user name, and password connection properties in "enrolleeStatusTracker/enrolleetrackerservice/src/main/resources/application.properties"
 
 **Functions**

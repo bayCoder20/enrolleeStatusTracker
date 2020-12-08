@@ -15,4 +15,5 @@ Functions
 - Modify existing dependents
 
 Demo Videos via PostMan
+- Videos may need to be downloaded for viewing with higher resolution
 - https://drive.google.com/drive/folders/1U3C1uIAMcJ74qQ9n1IyAp2bymbWwNxMd?usp=sharing

@@ -1,5 +1,5 @@
 ------------
-# Enrollee Status Tracker
+# Spring Boot Enrollee Status Tracker
 ------------
 
 **Spring Boot application for tracking the status of health care program enrollees.**
